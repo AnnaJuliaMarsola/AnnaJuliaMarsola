@@ -1,4 +1,4 @@
-## Boas vindas ao meu perfil! 
+## Boas vindas ao meu perfil! 🙂
 
 Sou Anna Julia Marsola 
 
@@ -7,5 +7,5 @@ Sou Anna Julia Marsola
 - Utilzo este espaco para minha organizacao e compartilhamento dos meus projetos desenvolvidos
 - Sou catolica
 
-
+![](https://media.tenor.com/A48JLRbrX-MAAAAi/umadecre-jesus.gif)
 
